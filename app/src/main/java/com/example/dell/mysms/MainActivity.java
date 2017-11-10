@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-
+//Checking commit with git
         return super.onOptionsItemSelected(item);
     }
 }
